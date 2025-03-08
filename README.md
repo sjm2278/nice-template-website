@@ -1,4 +1,4 @@
-  <h1><a href="https://conradbuck.github.io/nice-club/" target="_blank"><strong>NiCE Club @ UC Berkeley</strong></a></h1>
+  <h1><a href="https://conradbuck.github.io/nice-club/" target="_blank"><strong>NiCE Club @ Columbia</strong></a></h1>
 
   <section id="about">
     <h2>Nuclear is Clean Energy <strong>N.i.C.E.</strong></h2>
