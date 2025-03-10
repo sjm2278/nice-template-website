@@ -6,7 +6,7 @@
   </section>
 
 
-# NiCE Club Database Website Template
+# NiCE Club Database Website Template: THIS IS MY FIRST EDIT
 ## This github repository has all of the files you need to deploy a simple website for your own NiCE club.
 
 ## Included webpage templates
