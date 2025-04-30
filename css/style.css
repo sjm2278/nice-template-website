@@ -5340,3 +5340,44 @@ pre {
 .highlight {
   background-color:#f8f8f8
 }
+
+
+
+
+/* → Columbia Blue palette variables */
+:root {
+  --columbia-blue:    #A3C1DA;  /* main Columbia blue */
+  --columbia-blue-light: #DCEBF7; /* a very light tint */
+}
+
+/* — Replace GitHub-blue accents (#0366d6) with Columbia Blue */
+a,
+.text-blue,
+.border-blue,
+.link-gray:hover,
+.link-gray-dark:hover,
+.link-hover-blue:hover,
+.muted-link:hover {
+  color: var(--columbia-blue) !important;
+}
+
+.bg-blue,
+.bg-blue-light,
+.border-blue-light {
+  background-color: var(--columbia-blue-light) !important;
+}
+
+/* — Replace all “purple” accents (#6f42c1, #f5f0ff) with Columbia Blue variants */
+.border-purple {
+  border-color: var(--columbia-blue) !important;
+}
+.bg-purple {
+  background-color: var(--columbia-blue) !important;
+}
+.bg-purple-light {
+  background-color: var(--columbia-blue-light) !important;
+}
+.text-purple {
+  color: var(--columbia-blue) !important;
+}
+
